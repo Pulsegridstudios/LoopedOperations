@@ -1,2 +1,0 @@
-# LoopedOperations
-Looped Operations Website
